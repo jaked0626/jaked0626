@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- [Jake's Digital Biz Card](https://jaked0626.github.io/digital-biz-card/)
+
 <!--
 **jaked0626/jaked0626** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
